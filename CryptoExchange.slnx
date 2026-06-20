@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CryptoExchange.Api/CryptoExchange.Api.csproj" />
+  <Project Path="CryptoExchange.Tests/CryptoExchange.Tests.csproj" />
+</Solution>
